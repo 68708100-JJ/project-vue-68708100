@@ -7,7 +7,7 @@
         <div class="card h-100">
           <!-- แสดงรูปสินค้า -->
           <img
-            :src="product.images"
+            :src="product.thumbnail"
             width="100"
             class="card-img-top"
             alt="Product Image"

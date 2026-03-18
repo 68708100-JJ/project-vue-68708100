@@ -22,7 +22,7 @@
     
     <td>
     <img
-            :src="item.images"
+            :src="item.thumbnail"
             width="100"
             class="card-img-top"
             alt="Product Image"
