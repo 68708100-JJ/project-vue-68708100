@@ -64,6 +64,7 @@ CREATE TABLE `employees` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
+<<<<<<< HEAD
 -- Dumping data for table `employees`
 --
 
@@ -75,6 +76,8 @@ INSERT INTO `employees` (`emp_id`, `full_name`, `department`, `salary`, `active`
 ('EMP005', 'นายวินาที สุขกันเถอะเรา', 'ฝ่ายขาย', '26000.00', 0, '2023-05-12 10:00:00');
 
 --
+=======
+>>>>>>> 8620955fdb1d087a94ffcf79ee5c9ef05d0e8fa8
 -- Indexes for dumped tables
 --
 
